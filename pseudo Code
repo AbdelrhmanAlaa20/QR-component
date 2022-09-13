@@ -1,0 +1,23 @@
+--- HTML ---
+create the white box 
+guess dimensions
+insert the img 
+insert the paragraphs 
+
+--- CSS ---
+style paragraphs
+centering : 
+    blue box 
+    white box with the QR Code 
+
+----------------
+
+white box is a div 
+image in a figure taking its full width
+adjust the figure with margin and top
+text could be centered wit text align  
+controlling width of text with max width
+
+div is centered with margin
+div in grey light box also centered with margin
+grey light box has a max width
